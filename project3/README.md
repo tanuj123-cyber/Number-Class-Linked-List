@@ -1,6 +1,10 @@
-## Getting Started
+## Number Class Linked List
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This class is the Number class with a LinkedList implementation.
+It represents a number, where each digit is contained in a node.
+
+@author Tanuj Sistla
+@version 11/02/2021
 
 ## Folder Structure
 
